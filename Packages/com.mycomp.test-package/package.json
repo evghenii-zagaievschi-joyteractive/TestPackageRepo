@@ -3,9 +3,9 @@
 	"displayName": "Test Package",
 	"description": "Test package to see if I can handle changelogs",
 	"authors": "The people",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"unity": "2021.1",
 	"_upm": {
-		"changelog": "## Added\n- My first changelog"
+		"changelog": "## Changed\n- Changed version LMAO"
 	}
 }
