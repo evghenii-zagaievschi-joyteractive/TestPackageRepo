@@ -1,0 +1,11 @@
+{
+	"name": "com.mycomp.test-package",
+	"displayName": "Test Package",
+	"description": "Test package to see if I can handle changelogs",
+	"authors": "The people",
+	"version": "1.0.0",
+	"unity": "2021.1",
+	"_upm": {
+		"changelog": "## Added\n- My first changelog"
+	}
+}
